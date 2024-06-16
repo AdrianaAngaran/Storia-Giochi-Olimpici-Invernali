@@ -29,7 +29,7 @@ Pensato per una consultazione breve, per chi vuole avere qualche informazione in
 Il libro è visualizzabile in due modi:
 
 1. installando RStudio Desktop sul computer e aprendo il progetto `Olimpiadi invernali.Rproj`
-2. scaricando la cartella "book" che è un standalone per la visualizzazione in html
+2. dalla cartella "_book" che contiene tutti i file per la visualizzazione in html
 
 ## Repository
 
