@@ -1,0 +1,20 @@
+# III. Lake Placid 1932 {-}
+
+```{r, echo=FALSE, out.width='40%', fig.cap='III edizione dei Giochi olimpici invernali'}
+knitr::include_graphics("images/loghi/1932.jpg")
+```
+
+Si svolgono negli Stati Uniti.
+
+Dati:
+
+* 17 nazioni
+* 252 atleti
+* 7 specialità:
+  * bob
+  * hockey
+  * pattinaggio di figura
+  * pattinaggio di velocità
+  * combinata nordica
+  * salto con gli sci
+  * sci di fondo

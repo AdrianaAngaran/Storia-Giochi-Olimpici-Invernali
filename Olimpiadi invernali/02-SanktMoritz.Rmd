@@ -1,0 +1,19 @@
+# II. Sankt Moritz 1928 {-}
+
+```{r, echo=FALSE, out.width='40%', fig.cap='II edizione dei Giochi olimpici invernali'}
+knitr::include_graphics("images/loghi/1928.jpg")
+```
+
+Si svolgono in Svizzera.
+
+Dati:
+
+* 25 nazioni
+* 464 atleti
+* 6 specialità:
+  * bob 
+  * hockey su ghiaccio
+  * sci nordico
+  * pattinaggio di figura
+  * pattinaggio di velocità
+  * skeleton

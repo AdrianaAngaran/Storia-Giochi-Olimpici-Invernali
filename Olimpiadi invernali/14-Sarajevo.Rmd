@@ -1,0 +1,39 @@
+# XIV. Sarajevo 1984 {-}
+
+```{r, echo=FALSE, out.width='40%', fig.cap='XIV edizione dei Giochi olimpici invernali'}
+knitr::include_graphics("images/loghi/1984.png")
+```
+
+Si svolgono in Jugoslavia
+
+Dati:
+
+* 49 nazioni
+* 1272 atleti
+* 10 specialità:
+  * biathlon
+  * bob
+  * combinata nordica
+  * hockey
+  * pattinaggio di figura
+  * pattinaggio di velocità
+  * sci alpino
+  * salto con gli sci
+  * sci di fondo
+  * slittino
+
+## Mascotte {-}
+
+```{r, echo=FALSE, out.width='40%', fig.cap='Vuč ko'}
+knitr::include_graphics("images/mascotte/Sarajevo1984_mascotte.avif")
+```
+
+Vučko è stato creato da *Jože Trobec*. 
+ha la forma di un lupo, animale tipico delle foreste delle Alpi Dinariche. Attraverso le sue espressioni facciali sorridenti, spaventate o serie, Vučko ha regalato al lupo un aspetto piuttosto amichevole contribuendo a cambiare l'immagine solitamente feroce di questo animale.
+
+La mascotte viene scelta con una competizione a cui partecipano 836 persone. Dopo una selezione iniziale, vengono scelti sei progetti, che poi partecipano a una votazione su giornali e riviste. È il lupo del pittore sloveno Trobec a trionfare agevolmente sugli avversari: una palla di neve, un caprone di montagna, una donnola, un agnello e un riccio.
+
+Il lupo è una figura di primo piano nelle favole jugoslave: rappresenta coraggio e forza, e simbolizza l'inverno.
+
+Vučko era un personaggio creato da Nedeljko Dragic e pubblicato su diversi giornali e riviste in Jugoslavia.
+

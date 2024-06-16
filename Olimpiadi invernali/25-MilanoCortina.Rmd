@@ -1,0 +1,43 @@
+# XXV. Milano-Cortina 2026 {-}
+
+```{r, echo=FALSE, out.width='40%', fig.cap='XXV edizione dei Giochi olimpici invernali'}
+knitr::include_graphics("images/loghi/2026.png")
+```
+
+Si svolgeranno in Italia.
+
+Specialità:
+  * biathlon
+  * bob
+  * combinata nordica
+  * curling
+  * freestyle
+  * hockey
+  * pattinaggio di figura
+  * pattinaggio di velocità
+  * sci alpino
+  * salto con gli sci
+  * sci alpinismo
+  * sci di fondo
+  * short track
+  * skeleton
+  * slittino
+  * snowboard
+
+## Mascotte {-}
+
+```{r, echo=FALSE, out.width='60%', fig.cap='Tina, Milo e i Flo'}
+knitr::include_graphics("images/mascotte/MilanoCortina2026_mascotte.jpg")
+```
+
+Tina e Milo sono due ermellini. 
+Tina, dal manto chiaro rappresenterà i Giochi Olimpici Invernali del 2026. Il suo fratellino dal manto bruno, Milo sarà invece il testimonial dei prossimi Giochi Paralimpici Invernali.  I loro nomi richiamano due delle città protagoniste dei Giochi: Milo da Milano, Tina per Cortina.
+
+Gli ermellini con la loro vivacità e rapidità incarnano lo Spirito Italiano che guida i Giochi Olimpici e Paralimpici Invernali di Milano Cortina 2026. Curiosi per natura, sorprendenti per la capacità di cambiare il colore della pelliccia in base alle stagioni, sono resilienti nell’adattarsi ad un habitat sfidante come quello montano.
+
+Tina e Milo sono sorella e fratello, simili ma non identici, portatori di due energie complementari. Anche i colori sono diversi, ispirati al manto che questi animali “vestono” durante il corso dell’anno: bruno d’estate e bianco d’inverno. La scelta di proporre questi due diversi colori ha un valore simbolico: la montagna è un ambiente da proteggere, vivere e valorizzare non solo d’inverno, ma durante tutto l’anno. 
+
+I Flo sono sei piccoli bucaneve, i compagni di avventura di Tina e Milo. 
+I Flo sono una squadra: c’è chi è bravo a parlare, chi è un ottimo sportivo, chi è più giudizioso, chi più scalmanato e chi un po’ più timido… Quello che li unisce è la passione per l’aria aperta e per il divertimento.
+
+Fonte: [@milanocortina2026]

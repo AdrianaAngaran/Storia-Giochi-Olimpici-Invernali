@@ -1,0 +1,42 @@
+# XXIII. Pyeongchang 2018 {-}
+
+```{r, echo=FALSE, out.width='40%', fig.cap='XXIII edizione dei Giochi olimpici invernali'}
+knitr::include_graphics("images/loghi/2018.png")
+```
+
+Si svolgono in Corea del Sud.
+
+Dati:
+
+* 92 nazioni
+* 2920 atleti
+* 15 specialità:
+  * biathlon
+  * bob
+  * combinata nordica
+  * curling
+  * freestyle
+  * hockey
+  * pattinaggio di figura
+  * pattinaggio di velocità
+  * sci alpino
+  * salto con gli sci
+  * sci di fondo
+  * short track
+  * skeleton
+  * slittino
+  * snowboard
+
+## Mascotte {-}
+
+```{r, echo=FALSE, out.width='40%', fig.cap='Soohorang'}
+knitr::include_graphics("images/mascotte/Pyeongchang2018_mascotte.avif")
+```
+
+Soohorang è una tigre bianca.
+La tigre bianca è stata a lungo considerata l'animale custode della Corea.
+
+"Sooho", che significa "protezione" in coreano, simboleggia la protezione offerta agli atleti, agli spettatori e agli altri partecipanti ai Giochi del 2018. 
+"Rang" deriva dalla parte centrale di "Ho-rang-i", la parola coreana per "tigre", ed è anche l'ultima parte di "Jeong-seon A-ri-rang", una famosa canzone popolare tradizionale della Provincia di Gangwon, dove si sono svolti i Giochi.
+
+Soohorang non trasmette solo uno spirito di sfida e passione, ma è anche un amico fidato che protegge gli atleti, gli spettatori e tutti i partecipanti ai Giochi Olimpici.

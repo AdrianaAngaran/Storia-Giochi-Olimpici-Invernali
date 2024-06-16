@@ -1,0 +1,61 @@
+# XXII. Sochi 2014 {-}
+
+```{r, echo=FALSE, out.width='40%', fig.cap='XXII edizione dei Giochi olimpici invernali'}
+knitr::include_graphics("images/loghi/2014.png")
+```
+
+Si svolgono in Russia.
+
+Dati:
+
+* 88 nazioni
+* 2860 atleti
+* 15 specialità:
+  * biathlon
+  * bob
+  * combinata nordica
+  * curling
+  * freestyle
+  * hockey
+  * pattinaggio di figura
+  * pattinaggio di velocità
+  * sci alpino
+  * salto con gli sci
+  * sci di fondo
+  * short track
+  * skeleton
+  * slittino
+  * snowboard
+  
+```{r, echo=FALSE, out.width='80%', fig.cap="L'australiano David Morris nelle finali del freestyle maschile alle Olimpiadi di Sochi del 2014. (Cameron Spencer/Getty Images)"}
+knitr::include_graphics("images/IlPost/2014.jpg")
+```
+
+```{r, echo=FALSE, out.width='80%', fig.cap="L'austriaco Wolfgang Kindl nella prova di slittino alle Olimpiadi di Sochi del 2014. (Alex Livesey/Getty Images)"}
+knitr::include_graphics("images/IlPost/2014(2).jpg")
+```
+
+```{r, echo=FALSE, out.width='80%', fig.cap="La Nazionale di hockey russa prima della partita contro la Svizzera alle Olimpiadi di Sochi del 2014. (Martin Rose/Getty Images)"}
+knitr::include_graphics("images/IlPost/2014(3).jpg")
+```
+
+### Curiosità {-}
+
+Grandi polemiche ai Giochi di Sochi, nel 2014. La pattinatrice russa Adelina Sotnikova vince la medaglia d'oro nella gara individuale femminile, ma secondo gli osservatori la sua performance era nettamente inferiore rispetto alla prestazione della sudcoreana Yuna Kim. Non pochi hanno accusato i giudici di aver favorito l'atleta casalinga. 
+
+```{r, echo=FALSE, out.width='80%', fig.cap="(Corriere della Sera)"}
+knitr::include_graphics("images/corriere/2014.jpg")
+```
+
+## Mascotte {-}
+
+```{r, echo=FALSE, out.width='40%', fig.cap="La lepre, l'orso polare e il leopardo"}
+knitr::include_graphics("images/mascotte/Sochi2014_mascotte.avif")
+```
+
+Tre mascotte che rappresentano i tre piazzamenti sul podio Olimpico.
+Creatori: *Silviya Petrova* (lepre), *Oleg Seredechniy* (orso polare) e *Vadim Pak* (leopardo).
+
+Le mascotte per i Giochi Olimpici sono state scelte dopo un concorso che si è svolto prima in tutta la Russia, poi a livello internazionale. In totale sono stati presentati 24.048 disegni. Dieci proposte sono state scelte da una giuria di esperti per la seconda fase del concorso: i designer professionisti hanno quindi lavorato su di loro per mettere a punto la forma definitiva. La decisione finale è stata presa con una votazione del pubblico russo nell'ambito di un programma televisivo intitolato "Talismaniya Sochi 2014 – La finale" il 26 febbraio 2011.
+
+Nel 2012, la Russia ha introdotto una nuova moneta da 25 rubli e le mascotte di Sochi 2014 hanno avuto l'onore di essere presenti su questa moneta.

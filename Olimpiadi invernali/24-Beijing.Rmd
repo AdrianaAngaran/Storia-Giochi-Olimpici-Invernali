@@ -1,0 +1,45 @@
+# XXIV. Beijing 2022 {-}
+
+```{r, echo=FALSE, out.width='40%', fig.cap='XXIV edizione dei Giochi olimpici invernali'}
+knitr::include_graphics("images/loghi/2022.png")
+```
+
+Si svolgono in Cina a Pechino ("Beijing" in cinese).
+
+Dati:
+
+* 91 nazioni
+* 2871 atleti
+* 15 specialità:
+  * biathlon
+  * bob
+  * combinata nordica
+  * curling
+  * freestyle
+  * hockey
+  * pattinaggio di figura
+  * pattinaggio di velocità
+  * sci alpino
+  * salto con gli sci
+  * sci di fondo
+  * short track
+  * skeleton
+  * slittino
+  * snowboard
+
+## Mascotte {-}
+
+```{r, echo=FALSE, out.width='40%', fig.cap='Bing Dwen Dwen'}
+knitr::include_graphics("images/mascotte/Beijing2022_mascotte.avif")
+```
+
+Bing Dwen Dwen è un panda ideato da *Cao Xue* che indossa un “guscio” fatto di ghiaccio, simile a una tuta da astronauta – un omaggio alle nuove tecnologie per un futuro dalle possibilità infinite. Il guscio, inoltre, aiuta il panda a pattinare, fare snowboard e a sciare insieme agli atleti Olimpici.
+
+I colori brillanti dell’aureola intorno al volto, sono una rappresentazione delle ultime avanzate tecnologie installate sulle piste per gli sport su ghiaccio e neve ai Giochi, mentre il cuore sul palmo sinistro simboleggia l’ospitalità della Cina per gli atleti e gli spettatori delle Olimpiadi Invernali.
+
+In cinese mandarino, “Bing” ha diversi significati anche se il più comune è quello di ghiaccio. La parola simboleggia anche la purezza e la forza. 
+“Dwen Dwen” significa robusto e vitale e rappresenta anche i bambini.
+La mascotte incarna la forza degli atleti e lo spirito Olimpico.
+
+Il progetto di Bing Dwen Dwen è stato scelto tra più di 5.800 proposte provenienti dalla Cina e da 35 Paesi di tutto il mondo, come parte di un concorso internazionale allestito dal Comitato Organizzatore di Beijing 2022.
+La scelta di un panda animato come mascotte ufficiale di Beijing 2022 non è troppo sorprendente, considerato che è l’animale nazionale della Cina – inoltre, sempre il panda era una delle cinque mascotte Fuwa delle Olimpiadi Estive di Beijing 2008.

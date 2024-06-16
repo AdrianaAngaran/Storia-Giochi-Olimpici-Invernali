@@ -1,0 +1,6 @@
+book_filename: "Storia dei Giochi Olimpici Invernali"
+delete_merged_file: true
+language: 
+  name: italian
+ui:
+  chapter_name: ""
