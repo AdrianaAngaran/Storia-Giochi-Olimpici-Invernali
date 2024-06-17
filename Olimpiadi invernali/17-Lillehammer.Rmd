@@ -27,9 +27,11 @@ Dati:
 ```{r, echo=FALSE, out.width='80%', fig.cap='Il saltatore norvegese Stein Gruben si prepara a percorrere un tratto di discesa con la torcia olimpica nella cerimonia inaugurale delle Olimpiadi di Lillehammer del 1994. (Bob Martin/ALLSPORT)'}
 knitr::include_graphics("images/IlPost/1994.jpg")
 ```
+
 ```{r, echo=FALSE, out.width='80%', fig.cap='Il norvegese Bjorn Daehlie fra il pubblico nella 15 chilometri di fondo alle Olimpiadi del 1994 di Lillehammer. (Clive Brunskill/ALLSPORT)'}
 knitr::include_graphics("images/IlPost/1994(2).jpg")
 ```
+
 ###Curiosità {-}
 
 La più grande rivalità dei Giochi del 1994 a Lillehammer, in Norvegia, fu tra le pattinatrici americane Tonya Harding (a destra) e Nancy Kerrigan (a sinistra). Un mese prima della rassegna olimpica, l'ex marito di Harding colpì a un ginocchio con un manganello della polizia Kerrigan sulle ginocchia per tenerla fuori dai Giochi. Nonostante ciò Kerrigan riuscì a vincere la medaglia d'argento, mentre la rivale finì solo ottava. 

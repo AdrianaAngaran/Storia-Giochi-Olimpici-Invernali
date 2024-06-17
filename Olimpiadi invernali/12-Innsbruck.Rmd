@@ -25,9 +25,11 @@ Dati:
 ```{r, echo=FALSE, out.width='80%', fig.cap='La sciatrice tedesca Rosie Mittermaier nello slalom alle Olimpiadi di Innsbruck del 1976. (Tony Duffy/Allsport)'}
 knitr::include_graphics("images/IlPost/1976.jpg")
 ```
+
 ```{r, echo=FALSE, out.width='80%', fig.cap="Insbruck 1976. Lo sciatore italiano Piero Gros dopo aver vinto la medaglia d’oro dello slalom. (Artevitae)"}
 knitr::include_graphics("images/ArteVitae/1976.jpg")
 ```
+
 ## Mascotte {-}
 
 ```{r, echo=FALSE, out.width='40%', fig.cap='Schneemann'}

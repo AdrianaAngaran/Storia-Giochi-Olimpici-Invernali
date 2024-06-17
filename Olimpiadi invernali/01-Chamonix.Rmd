@@ -3,6 +3,7 @@
 ```{r, echo=FALSE, out.width='40%', fig.cap='I edizione dei Giochi olimpici invernali'}
 knitr::include_graphics("images/loghi/1924.jpg")
 ```
+
 Si disputa in Francia come "Settimana internazionale degli sport invernali" sotto il patrocinio del CIO, che nel 1925 la riconosce come prima edizione dei Giochi olimpici invernali.
 
 Dati:

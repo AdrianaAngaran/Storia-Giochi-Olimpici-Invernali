@@ -34,9 +34,11 @@ knitr::include_graphics("images/IlPost/2002.jpg")
 ```{r, echo=FALSE, out.width='80%', fig.cap="Una foto scattata allo Utah Olympic Park di Park City durante la prova di salto con gli sci alle Olimpiadi di Salt Lake City. (Jed Jacobsohn /Getty Images)"}
 knitr::include_graphics("images/IlPost/2002(2).jpg")
 ```
+
 ```{r, echo=FALSE, out.width='80%', fig.cap='La squadra statunitense del bob alle Olimpiadi di Salt Lake City del 2002. (Getty Images)'}
 knitr::include_graphics("images/IlPost/2002(3).jpg")
 ```
+
 ### Curiosità {-}
 
 Alle Olimpiadi del 2002 a Salt Lake City, Jim Shea, skeletonista statunitense, conquista l'oro e diventa un campione olimpico di terza generazione. Suo padre infatti aveva gareggiato in gare di sci di fondo, mentre suo nonno era Jack Shea, il famoso pattinatore olimpico, vincitore di due medaglie d'oro ai Giochi di Lake Placid del 1932. 
@@ -50,7 +52,6 @@ Nel 2002, la squadra femminile di curling britannica ha portato a casa il primo 
 knitr::include_graphics("images/corriere/2002(2).jpg")
 ```
 Nel 2002, il pattinatore Steven Bradbury ha vinto il primo oro olimpico invernale dell'Australia nella storia, dopo che tutti gli avversari sono caduti nel tratto finale della gara. Da allora nel Paese anglofono l'espressione "doing a Bradbury" (fare un Bradbury) è sinonimo di "successo clamoroso e altamente insperato". 
-
 ```{r, echo=FALSE, out.width='80%', fig.cap='(Corriere della Sera'}
 knitr::include_graphics("images/corriere/2002(3).jpg")
 ```

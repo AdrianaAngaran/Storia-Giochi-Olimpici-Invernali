@@ -10,7 +10,7 @@ description: |
   The HTML output format for is bookdown::gitbook,
   set in the _output.yml file.
 link-citations: yes
-github-repo: https://github.com/AdrianaAngaran/Storia-Giochi-Olimpici-Invernali.git_
+github-repo: https://github.com/AdrianaAngaran/Storia-Giochi-Olimpici-Invernali.git
 ---
 
 # Introduzione {-}

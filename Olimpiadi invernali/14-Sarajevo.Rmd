@@ -4,7 +4,7 @@
 knitr::include_graphics("images/loghi/1984.png")
 ```
 
-Si svolgono in Jugoslavia
+Si svolgono in Jugoslavia, nella capitale attuale della Bosnia-Erzegovina.
 
 Dati:
 

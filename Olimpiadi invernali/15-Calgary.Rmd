@@ -25,6 +25,7 @@ Dati:
 ```{r, echo=FALSE, out.width='80%', fig.cap='La statunitense Erica Terwillegar nella prova di slittino alle Olimpiadi invernali di Calgary del 1988. (Allsport UK /Allsport)'}
 knitr::include_graphics("images/IlPost/1988.jpg")
 ```
+
 ```{r, echo=FALSE, out.width='80%', fig.cap="Calgary 1988. Un pattinatore svedese cade mentre uno dell’Unione Sovietica lo supera durante una gara dei 1500 metri di pattinaggio. (Artevitae)"}
 knitr::include_graphics("images/ArteVitae/1988.jpg")
 ```

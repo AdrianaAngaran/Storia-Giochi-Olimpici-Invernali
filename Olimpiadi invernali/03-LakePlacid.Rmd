@@ -4,7 +4,7 @@
 knitr::include_graphics("images/loghi/1932.jpg")
 ```
 
-Si svolgono negli Stati Uniti.
+Si svolgono negli Stati Uniti, nello stato di New York.
 
 Dati:
 

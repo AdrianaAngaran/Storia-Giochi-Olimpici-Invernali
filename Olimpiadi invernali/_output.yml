@@ -15,4 +15,8 @@ bookdown::pdf_book:
   latex_engine: xelatex
   citation_package: natbib
   keep_tex: yes
-bookdown::epub_book: default
+bookdown::epub_book:
+  toc: yes
+  number_sections: no
+  toc_depth: 3
+  pandoc_args: ["--css", "style.css"]

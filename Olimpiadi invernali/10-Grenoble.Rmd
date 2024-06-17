@@ -25,6 +25,7 @@ Dati:
 ```{r, echo=FALSE, out.width='80%', fig.cap='Le statunitensi Mary Meyers, Dianne Holum e Jennifer Fish, terze classificate nel pattinaggio di velocità dopo aver fatto registrare lo stesso identico tempo, alle Olimpiadi invernali di Grenoble del 1968. (Allsport Hulton/Archive)'}
 knitr::include_graphics("images/IlPost/1968.jpg")
 ```
+
 ```{r, echo=FALSE, out.width='80%', fig.cap="Grenoble 1968. Alcuni giocatori delle squadre di hockey della Cecoslovacchia e dell’URSS sono incastrati nella porta della Cecoslovacchia, durante una partita delle Olimpiadi.(Artevitae)"}
 knitr::include_graphics("images/ArteVitae/1968.jpg")
 ```

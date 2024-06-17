@@ -33,6 +33,7 @@ knitr::include_graphics("images/IlPost/1998.jpg")
 ```{r, echo=FALSE, out.width='80%', fig.cap='Alberto Tomba nello slalom gigante di Shiga Kogen alle Olimpiadi invernali di Nagano del 1998. (Clive Brunskill /Allsport)'}
 knitr::include_graphics("images/IlPost/1998(2).jpg")
 ```
+
 ### Curiosità {-}
 
 Le Olimpiadi Invernali del 1998 a Nagano, in Giappone, furono le prime a presentare gare di snowboard. Il canadese Ross Rebagliati conquistò la medaglia d'oro olimpica nello snowboard - slalom gigante. 

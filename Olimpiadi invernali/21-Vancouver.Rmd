@@ -30,6 +30,7 @@ Dati:
 ```{r, echo=FALSE, out.width='80%', fig.cap='La statunitense Hannah Kearney nella prova di freestyle femminile alle Olimpiadi di Vancouver del 2010. (Streeter Lecka/Getty Images)'}
 knitr::include_graphics("images/IlPost/2010.jpg")
 ```
+
 ```{r, echo=FALSE, out.width='80%', fig.cap='Il braciere olimpico delle Olimpiadi di Vancouver del 2010. (Getty Images)'}
 knitr::include_graphics("images/IlPost/2010(2).jpg")
 ```
