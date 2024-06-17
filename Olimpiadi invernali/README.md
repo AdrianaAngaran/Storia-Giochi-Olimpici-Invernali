@@ -21,7 +21,7 @@ Pensato per una consultazione breve, per chi vuole avere qualche informazione in
 
 - **R version**: >= 4.4.0
 - **Pacchetti R**:
-  - `rmarkdwon` >= 2.27
+  - `rmarkdown` >= 2.27
   - `bookdown` >= 0.39
 - `pandoc` >= 3.2
 - **Motore LaTeX**: MiKTeX-pdfTeX 4.18 (MiKTeX 24.1)
