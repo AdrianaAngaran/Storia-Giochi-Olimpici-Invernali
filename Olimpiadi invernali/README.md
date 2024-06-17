@@ -28,10 +28,11 @@ Pensato per una consultazione breve, per chi vuole avere qualche informazione in
 
 ## Visualizzare il Libro
 
-Il libro è visualizzabile in due modi:
+Il libro è visualizzabile in tre modi:
 
 1. installando RStudio Desktop sul computer e aprendo il progetto `Olimpiadi invernali.Rproj`
-2. dalla cartella "_book" che contiene tutti i file per la visualizzazione in html
+2. aprendo la cartella "_book" che contiene tutti i file per la visualizzazione in html, aprire il file "index.html"
+3. nella cartella "_book" è disponibile il file "Storia-dei-giochi-olimpici-invernali.epub" in formato epub che si può aprire con un visualizzatore di file epub online (es. [fviewer](https://www.fviewer.com/it/view-epub)) oppure con un software di gestione ebook (es. [Calibre](https://calibre-ebook.com/))
 
 ## Repository
 
